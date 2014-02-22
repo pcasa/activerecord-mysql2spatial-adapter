@@ -36,7 +36,7 @@
 
 source "http://rubygems.org"
 
-gem('rgeo-activerecord', '~> 0.4.5')
+gem('rgeo-activerecord', '~> 0.5.0')
 gem('mysql2', '>= 0.2.13')
 #gem('activerecord', '~> 3.0.16')
 #gem('activerecord', '~> 3.1.7')
